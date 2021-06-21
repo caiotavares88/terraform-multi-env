@@ -14,3 +14,8 @@ variable "topic_name" {
 variable "bucketname" {
     type = string
 }
+
+variable "bucketname_2" {
+    type = string
+}
+
