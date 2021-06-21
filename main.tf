@@ -7,7 +7,7 @@ resource "google_pubsub_topic" "topic" {
         taskid             = "000000002"				#Zendesk ticket number
   } 
 }
-
+/*
 resource "google_storage_bucket" "private" {
     name = var.bucketname
 
@@ -27,3 +27,4 @@ resource "google_storage_bucket" "private2" {
         taskid             = "000000001"				#Zendesk ticket number
   } 
 }
+*/
