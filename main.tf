@@ -17,7 +17,6 @@ resource "google_storage_bucket" "private" {
         taskid             = "000000001"				#Zendesk ticket number
   } 
 }
-/*
 resource "google_storage_bucket" "private2" {
     name = var.bucketname_2
 
@@ -27,4 +26,3 @@ resource "google_storage_bucket" "private2" {
         taskid             = "000000001"				#Zendesk ticket number
   } 
 }
-*/
