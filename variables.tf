@@ -10,3 +10,7 @@ variable "zone" {
 variable "topic_name" {
     type = string
 }
+
+variable "bucketname" {
+    type = string
+}
