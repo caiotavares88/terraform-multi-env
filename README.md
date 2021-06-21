@@ -4,7 +4,7 @@
 
 Initialize Dev and Prod
 
-````
+```
 terraform init -backend-config=dev/backend.dev.hcl
 ```
 
